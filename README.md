@@ -21,5 +21,5 @@ Algorithms:
 [Numerical Analysis / Numerical Calculus](https://github.com/a2gs/NumericalAnalysis)  
   
 Projects:  
-[PAINEL](https://github.com/a2gs/PAINEL)
+[PAINEL](https://github.com/a2gs/PAINEL)  
 [Binance Exponential Moving Average Bot](https://github.com/a2gs/EMA_Binance_BOT)
