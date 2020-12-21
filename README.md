@@ -9,8 +9,7 @@ If there are no problems handily available, they will create their own problems.
 Studies:  
 [C++ Features](https://github.com/a2gs/CPP_VersionFeatures)  
 [Python](https://github.com/a2gs/pythonStudy)  
-[Bash Shell Script](https://github.com/a2gs/shBash)  
-  
+[Bash Shell Script](https://github.com/a2gs/shBash)    
 [Bitcoin Blockchain Implementation](https://github.com/a2gs/blockchain)  
 [OpenMP](https://github.com/a2gs/OMP_studies)  
 [C TCPv6 Server/Client](https://github.com/a2gs/clientForkServTCP6)
