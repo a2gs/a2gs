@@ -14,7 +14,7 @@ If there are no problems handily available, they will create their own problems.
 [C TCPv6 Server/Client](https://github.com/a2gs/clientForkServTCP6)  
 [C TCPv4 Server/Client (with DNS resolution)](https://github.com/a2gs/clientForkServTCP4)  
 [Samples using PyQT](https://github.com/a2gs/PyQT)  
-[ncursesPyMenu](https://github.com/a2gs/ncursesPyMenu)  
+[A sample for Python Menu with ncurses](https://github.com/a2gs/ncursesPyMenu)  
 [Qt codes](https://github.com/a2gs/Qt)  
 [My Artificial Intelligence training](https://github.com/a2gs/AI)  
 [PostgreSQL C API sample codes](https://github.com/a2gs/PostgreSQL_C_API)  
