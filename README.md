@@ -4,9 +4,9 @@
 If there are no problems handily available, they will create their own problems." --Scott Adams
 
 
-[My Environment](https://github.com/a2gs/myEnvironment)  
+**0. [My Environment]**(https://github.com/a2gs/myEnvironment)  
   
-Studies:  
+**1. Studies:**  
 [C++ Features](https://github.com/a2gs/CPP_VersionFeatures)  
 [Python](https://github.com/a2gs/pythonStudy)  
 [Bash Shell Script](https://github.com/a2gs/shBash)    
@@ -39,7 +39,7 @@ Studies:
 [Linux Device Driver](https://github.com/a2gs/LinuxDeviceDriver)
 [Google Colab codes](https://github.com/a2gs/GoogleColab)  
   
-Algorithms:  
+**2. Algorithms:**  
 [A fast shared circular buffer library for POSIX systems (libscb)](https://github.com/a2gs/libscb)  
 [Numerical Analysis / Numerical Calculus](https://github.com/a2gs/NumericalAnalysis)  
 [Circular List (buffer)](https://github.com/a2gs/cList)  
@@ -51,7 +51,7 @@ Algorithms:
 [A fast shared circular buffer library for POSIX systems](https://github.com/a2gs/libscb)  
 [AVL Binary Tree C library](https://github.com/a2gs/libbtavl)  
   
-Projects:  
+**3. Projects:**  
 [PAINEL](https://github.com/a2gs/PAINEL)  
 [Binance Exponential Moving Average Bot](https://github.com/a2gs/EMA_Binance_BOT)
 [A Send Email API for C](https://github.com/a2gs/enviaEmail)  
