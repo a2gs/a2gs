@@ -11,7 +11,7 @@ If there are no problems handily available, they will create their own problems.
 [Bash Shell Script](https://github.com/a2gs/shBash)    
 [Bitcoin Blockchain Implementation](https://github.com/a2gs/blockchain)  
 [OpenMP](https://github.com/a2gs/OMP_studies)  
-[C TCPv6 Server/Client](https://github.com/a2gs/clientForkServTCP6)  
+[C TCPv6 Server/Client (with DNS resolution)](https://github.com/a2gs/clientForkServTCP6)  
 [C TCPv4 Server/Client (with DNS resolution)](https://github.com/a2gs/clientForkServTCP4)  
 [Samples using PyQT](https://github.com/a2gs/PyQT)  
 [A sample for Python Menu with ncurses](https://github.com/a2gs/ncursesPyMenu)  
