@@ -1,9 +1,8 @@
-:zap: The most userfrindly thing my programs have are good debug messages :zap:  
+:zap: The most userfrindly thing my programs have are good debug messages\0:zap:  
   
 "Engineers like to solve problems.  
-If there are no problems handily available, they will create their own problems." --Scott Adams
-
-
+If there are no problems handily available, they will create their own problems." --Scott Adams  
+  
 **0. [My Environment]**(https://github.com/a2gs/myEnvironment)  
   
 **1. Studies:**  
