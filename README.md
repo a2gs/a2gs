@@ -44,7 +44,6 @@ If there are no problems handily available, they will create their own problems.
 [Circular List (buffer)](https://github.com/a2gs/cList)  
 [Cryptography sample codes (using OpenSSL)](https://github.com/a2gs/crypto)  
 [API for a Doubly Linked List](https://github.com/a2gs/doublyLinkedList)  
-[Greatest Common Divisor (GCD) by Euclid Algorithm](https://github.com/a2gs/gdcEuclid/tree/master)  
 [Static library SHA-256](https://github.com/a2gs/libsha-256)  
 [Exponential Moving Average](https://github.com/a2gs/EMA)  
 [A fast shared circular buffer library for POSIX systems](https://github.com/a2gs/libscb)  
