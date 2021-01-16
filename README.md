@@ -51,7 +51,7 @@ If there are no problems handily available, they will create their own problems.
   
 **3. Projects:**  
 [PAINEL](https://github.com/a2gs/PAINEL)  
-[Binance Exponential Moving Average Bot](https://github.com/a2gs/EMA_Binance_BOT)
+[Binance Exponential Moving Average Bot](https://github.com/a2gs/EMA_Binance_BOT)  
 [A Send Email API for C](https://github.com/a2gs/enviaEmail)  
 [Driver to access Arduino GPIO (config, set and get state) through PC-serial](https://github.com/a2gs/Arduino_GPIO_Driver)  
 [Arduino Set/Get/Status GPIO HTTP Server using Ethernet Shield W5100](https://github.com/a2gs/Arduino_ethernetHTTPServer)  
