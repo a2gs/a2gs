@@ -24,7 +24,7 @@ If there are no problems handily available, they will create their own problems.
 [A sample of statvfs(2) usage: get filesystem information/statistics](https://github.com/a2gs/statvfsSample)  
 [A full sample of filesystem events notification (Linux inotify(7))](https://github.com/a2gs/inotifyLinuxSample)  
 [A full sample of ncurses pallet and attributes](https://github.com/a2gs/ncursesPallet)  
-[A sample of how to calculate a delta time (nanoseconds) of an event](https://github.com/a2gs/execTime)
+[A sample of how to calculate a delta time (nanoseconds) of an event](https://github.com/a2gs/execTime)  
 [Print all default C variable types sizes and limits](https://github.com/a2gs/CTypes)  
 [Testing with ncurses windows](https://github.com/a2gs/ncursesWindows)  
 [A sample of POSIX Message Queue](https://github.com/a2gs/POSIXMessageQueue)  
