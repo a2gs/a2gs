@@ -62,6 +62,7 @@ If there are no problems handily available, they will create their own problems.
 [A RPN library calculator API and a simple ncurses interface](https://github.com/a2gs/RPN_API_ncIface)  
 [Arduino 433MHz ASK Transmitter and Receiver code samples](https://github.com/a2gs/Arduino_433MHzASK_TransRecv)  
 [A personal getopt libray](https://github.com/a2gs/getopt)  
+[Mercado Bitcoin Order Place](https://github.com/a2gs/MercadoBitcoinOrderPlace)  
 [A binary (with offset regulation) load balance](https://github.com/a2gs/binaryLoadBalance)  
 [A simple memory dumper formatter](https://github.com/a2gs/dump)  
 [C (header only) Bitwise get/set operators](https://github.com/a2gs/bitwiseByteGetSetBits)  
