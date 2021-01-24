@@ -41,6 +41,7 @@ If there are no problems handily available, they will create their own problems.
 **2. Algorithms:**  
 [A fast shared circular buffer library for POSIX systems (libscb)](https://github.com/a2gs/libscb)  
 [Numerical Analysis / Numerical Calculus](https://github.com/a2gs/NumericalAnalysis)  
+[My Math Library](https://github.com/a2gs/MyMath)  
 [Circular List (buffer)](https://github.com/a2gs/cList)  
 [Cryptography sample codes (using OpenSSL)](https://github.com/a2gs/crypto)  
 [API for a Doubly Linked List](https://github.com/a2gs/doublyLinkedList)  
