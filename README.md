@@ -85,6 +85,7 @@ If there are no problems handily available, they will create their own problems.
 [MetaTrader MQL5 Copy-Trade Expert Advisor with ZeroMQ](https://github.com/a2gs/CopyTradeMQL5)  
 [As Bulletin Board System](https://github.com/a2gs/As)  
 [A simple debouncing schema](https://github.com/a2gs/ArduinoDebouncing)  
+[Shell script / awk to parse DSV files](https://github.com/a2gs/parseDSV)
 [Trailing Stop MetaTrader 5 EA](https://github.com/a2gs/TrailingStopMQL5)  
 [A BTC wallet digger](https://github.com/a2gs/BTCWalletDigger)  
 [Histogram by historical (1) and raffle (2)](https://github.com/a2gs/MegaSena_Histogram)  
