@@ -69,6 +69,7 @@ If there are no problems handily available, they will create their own problems.
 [A binary (with offset regulation) load balance](https://github.com/a2gs/binaryLoadBalance)  
 [A simple memory dumper formatter](https://github.com/a2gs/dump)  
 [C (header only) Bitwise get/set operators](https://github.com/a2gs/bitwiseByteGetSetBits)  
+[A bitmap facility](https://github.com/a2gs/bitmap)  
 [Wizard Pattern Library](https://github.com/a2gs/wizardPattern)  
 [BCD code/encoder Library](https://github.com/a2gs/BCD-Lib)  
 [API to add/subtract seconds (or days) from a given date](https://github.com/a2gs/calcDate)  
