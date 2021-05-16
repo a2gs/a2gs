@@ -19,6 +19,7 @@ If there are no problems handily available, they will create their own problems.
 [My Artificial Intelligence training](https://github.com/a2gs/AI)  
 [PostgreSQL C API sample codes](https://github.com/a2gs/PostgreSQL_C_API)  
 [Assembly codes for Intel x86 (64bits)](https://github.com/a2gs/ASM_x86_64)  
+[My sample of C application with a full Debian in a Docker image](https://github.com/a2gs/Docker_Debian_HelloWorld)  
 [A sample using sigaction(2)](https://github.com/a2gs/sigactionSample)  
 [A quick sample for C POSIX pthread and mutex](https://github.com/a2gs/PthreadMutexSample/tree/master)  
 [A sample of statvfs(2) usage: get filesystem information/statistics](https://github.com/a2gs/statvfsSample)  
