@@ -59,6 +59,7 @@ If there are no problems handily available, they will create their own problems.
 [Driver to access Arduino GPIO (config, set and get state) through PC-serial](https://github.com/a2gs/Arduino_GPIO_Driver)  
 [A Linux Debian facility for system administration](https://github.com/a2gs/DebianMaintenance)  
 [Arduino Set/Get/Status GPIO HTTP Server using Ethernet Shield W5100](https://github.com/a2gs/Arduino_ethernetHTTPServer)  
+[SSP - SimpleSerializerProtocol](https://github.com/a2gs/SSP_SimpleSerializerProtocol)  
 [Personal DumpHex file](https://github.com/a2gs/fileHexDump)  
 [ISO8583 Message simulator](https://github.com/a2gs/ISO8583)  
 [A tracer (to stderr) from malloc/free usage](https://github.com/a2gs/mallocTrace)  
