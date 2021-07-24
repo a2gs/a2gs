@@ -101,3 +101,8 @@ If there are no problems handily available, they will create their own problems.
 [A Bitcoin/Litecoin CUI wallet](https://github.com/a2gs/AsWallet)  
 [RSA Asymmetric Key utility](https://github.com/a2gs/pyRSAAsymKeyUtil)  
 [A simple and fast python keylogger](https://github.com/a2gs/keylogger)  
+[Sudoku Simplifier](https://github.com/a2gs/sudokuSimplifier)  
+  
+**4. Closed:**  
+[KTSU](https://github.com/a2gs/KTSU)  
+[GYA](https://github.com/a2gs/GYA)  
