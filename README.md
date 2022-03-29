@@ -48,7 +48,6 @@ If there are no problems handily available, they will create their own problems.
 [API for a Doubly Linked List](https://github.com/a2gs/doublyLinkedList)  
 [Static library SHA-256](https://github.com/a2gs/libsha-256)  
 [Exponential Moving Average](https://github.com/a2gs/EMA)  
-[A fast shared circular buffer library for POSIX systems](https://github.com/a2gs/libscb)  
 [AVL Binary Tree C library](https://github.com/a2gs/libbtavl)  
   
 **3. Projects:**  
