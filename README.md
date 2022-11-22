@@ -32,6 +32,7 @@ If there are no problems handily available, they will create their own problems.
 [POSIX semaphore sample](https://github.com/a2gs/semaphoreSample)  
 [Just initial template sources](https://github.com/a2gs/InitProjectTemplate)  
 [MQL5 Snippet Codes](https://github.com/a2gs/MQL5_SnippetCodes)  
+[C Static/Shared Library Template](https://github.com/a2gs/libTemplate)  
 [Linux epoll(2) sample](https://github.com/a2gs/epollSample)  
 [A simple snippet sample of ZeroMQ Publisher/Subscriber for C](https://github.com/a2gs/0MQ_PubSub)  
 [Undergraduate Thesis (Bachelor's degree in Electrical Engineering)](https://github.com/a2gs/TCC)  
